@@ -1,0 +1,16 @@
+{
+  "name": "solana-helius-service",
+  "version": "1.0.0",
+  "description": "Production-ready Node.js integration for Solana and Helius API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.0",
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.5"
+  }
+}
+
